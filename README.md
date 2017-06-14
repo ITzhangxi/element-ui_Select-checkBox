@@ -1,7 +1,7 @@
-# element-ui[Selectu选择器]('http://element.eleme.io/#/zh-CN/component/select')
+# element-ui[Selectu选择器](http://element.eleme.io/#/zh-CN/component/select)
 
 ## 下载本文件
-> * $ git clone ....
+> * $ git clone https://github.com/ITzhangxi/element-ui_Select-checkBox.git
 > * $ npm install
 > * $ npm dev
 
